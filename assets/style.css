@@ -1,1 +1,22 @@
+*{
+    margin: 0;
+    padding: 0;
+    height: 50vh;
+    width: 100%; 
+    background-size: cover;
+    
+}
+body {
+background-color: white;
 
+}
+.img{
+ -ms-flex-item-align: center;  
+}
+.header{
+    width: 100vh; 
+    height: 80%;
+}
+.button{
+    
+}
